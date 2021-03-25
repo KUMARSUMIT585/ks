@@ -1,4 +1,4 @@
-# ks
+# Main features - BDD , cucumber, POM , java ,selenium , maven 
 
 #Pre requisites - java and maven 
 #My versions -
