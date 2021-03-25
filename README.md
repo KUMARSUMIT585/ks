@@ -15,16 +15,16 @@
    Default locale: en_GB, platform encoding: Cp1252
   OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 
-#To install - mvn clean install
+# To install - mvn clean install
 
-#To execute - right click on Feature and run as cucumber feature
-#Browser -   Chrome (driver in repo)
+# To execute - right click on Feature and run as cucumber feature
+# Browser -   Chrome (driver in repo)
 
-#Status-  Both test case automated & passing (have attached Extent report)
+# Status-  Both test case automated & passing (have attached Extent report)
 
-#If facing issues while set up-  pls update maven project (force update of snapshot or releases)/ contact me
+# If facing issues while set up-  pls update maven project (force update of snapshot or releases)/ contact me
 
-#Improvements in future -
+# Improvements in future -
   better reporting with screenshots
   writing Extent utility 
   writing more utility functions (drop down , select , web table operations and so on)
