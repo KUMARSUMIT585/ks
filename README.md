@@ -2,7 +2,8 @@
 
 
 Pre requisites - java and maven 
-my versions- 
+mY versions :
+
    java -version
   openjdk version "11.0.2" 2019-01-15
   OpenJDK Runtime Environment 18.9 (build 11.0.2+9)
