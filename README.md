@@ -21,12 +21,14 @@ To install - mvn clean install
 To execute - right click on Feature and run as cucumber feature
 Browser -   Chrome (driver in repo)
 
-Status-  Both test case automated & passing 
+Status-  Both test case automated & passing (have attached Extent report)
 
 If facing issues while set up-  pls update maven project (force update of snapshot or releases)/ contact me
 
 Improvements in future -
   better reporting with screenshots
+  writing Extent utility 
+  writing more utility functions (drop down , select , web table operations and so on)
   data through excel or json
   more reusable functions written
   more pages defined (did minimal pages to save time yet displaying POM knowledge )
